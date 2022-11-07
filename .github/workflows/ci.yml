@@ -38,6 +38,6 @@ jobs:
           cd my-app
           npm test
       - run: |
-          cd my-app
+          cd my-appddddddddddddddddddddddddddddddddddddddddddddddddddddddd
           npm start &
           npx wait-on --timeout 60000
